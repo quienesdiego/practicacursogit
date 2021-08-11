@@ -47,6 +47,12 @@ footer{
     min-width: 320px;
     color: rgba(0, 0, 255, 0.637);
     margin-top: 200px;
+}
+
+
+ul{
+    display: flex;
     list-style: none;
-    font-size: 20px;
+    justify-content: space-between;
+    padding-right: 20px;
 }
